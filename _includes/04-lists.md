@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Música
+2. Anime
+3. Películas
+  1. Comedia
+  2. Acción
